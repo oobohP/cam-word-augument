@@ -9,3 +9,4 @@ According to a researcher (sic) at Cambridge University, it doesn't matter in wh
 
 # Usage
 python word.py {"string"}
+automatically copies to clipboard
